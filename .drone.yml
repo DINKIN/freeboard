@@ -1,0 +1,4 @@
+clone:
+  depth: 50
+  recursive: true
+  path: github.com/chaudyg/freeboard
